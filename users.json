@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "email": "ahmed@gmail.com",
+    "age": 22
+  },
+  {
+    "id": 2,
+    "name": "ibrahim",
+    "email": "ibrahim@gmail.com",
+    "age": 23
+  },
+  {
+    "id": 3,
+    "name": "hassan",
+    "email": "hassan@gmail.com",
+    "age": 44
+  },
+  {
+    "id": 4,
+    "name": "amr",
+    "email": "amr@gmail.com",
+    "age": 44
+  },
+  {
+    "id": 6,
+    "name": "ali",
+    "email": "ali@gmail.com",
+    "age": "22"
+  },
+  {
+    "id": 6,
+    "name": "Mohamed",
+    "email": "mohamed@gmail.com",
+    "age": 28
+  }
+]
